@@ -1,1 +1,0 @@
-import{B as e,L as t,g as n,y as r}from"./modules/shiki-_IfpXcFA.js";import{nt as i}from"./index-CX7-35MP.js";var a={class:`slidev-layout whiteboard`},o={class:`my-auto`},s={__name:`whiteboard`,setup(s){let{$slidev:c,$nav:l,$clicksContext:u,$clicks:d,$page:f,$renderContext:p,$frontmatter:m}=i();return(i,s)=>(t(),r(`div`,a,[n(`div`,o,[e(i.$slots,`default`)])]))}};export{s as t};
